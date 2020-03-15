@@ -80,7 +80,6 @@
 	<File name="Classes/TooltipHost.lua" part="program" sha1="23274906162877c09d2119237414b6747a0e6cea" />
 	<File name="Classes/TreeTab.lua" part="program" sha1="afb257ca498f3262b067bd52eb73e2aec6961a87" />
 	<File name="Classes/UndoHandler.lua" part="program" sha1="ce4835c384c834da0de47b0302b1e774c8300c6b" />
-	<File name="Data/ClusterJewels.lua" part="program" sha1="247a6b7e30c621bb8beb0da4249331f040d2924d" />
 	<File name="Data/Global.lua" part="program" sha1="b365ad34a555fac9a87f9202a2cd9bf0ef87b857" />
 	<File name="Data/New.lua" part="program" sha1="4315f22023834cc0a4d5b2e8a3d658f06dbc1cb0" />
 	<File name="Data/Uniques/amulet.lua" part="program" sha1="0e3a120178535679cca99220416a03c8ea027138" />
@@ -146,6 +145,7 @@
 	<File name="Data/2_6/Skills/sup_dex.lua" part="program" sha1="497ff50f4ec90ce331b431598bdf5b142d2858a9" />
 	<File name="Data/2_6/Skills/sup_int.lua" part="program" sha1="f1376f24e3efb1359fe636fd22d64fe6fc61aa43" />
 	<File name="Data/2_6/Skills/sup_str.lua" part="program" sha1="7b2113799018833a76908d024c8b5aa937324483" />
+	<File name="Data/3_0/ClusterJewels.lua" part="program" sha1="a73ea5f0ac5dd0d3df67b92dbd1308a30cd99baa" />
 	<File name="Data/3_0/EnchantmentBoots.lua" part="program" sha1="94b77c91487b78185ff26605c5fc4e41ce6c7f8b" />
 	<File name="Data/3_0/EnchantmentGloves.lua" part="program" sha1="1fcdacb6f5e454b41163c0ddef1e4aa3444fe0fb" />
 	<File name="Data/3_0/EnchantmentHelmet.lua" part="program" sha1="56a1fe3855e96679f14da91273b52402fc55a98f" />
