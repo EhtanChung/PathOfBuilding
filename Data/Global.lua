@@ -214,4 +214,11 @@ SkillType = {
 	Type83 = 94, -- Has secondary projectiles
 	Ballista = 95,
 	NovaSpell = 96,
+	Type91 = 97,
+	Type92 = 98,
+	Type93 = 99,
+	Type94 = 100,
+	Type95 = 101,
+	Type96 = 102,
+	Type97 = 103,
 }
